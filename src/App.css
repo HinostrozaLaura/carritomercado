@@ -1,0 +1,28 @@
+.App {
+  background-color: aqua;
+  font-size: 20px;
+  text-align: center;
+  font-style: initial;
+}
+
+.total{
+ 
+  background-color: brown;
+}
+.filtro{
+  background-color: chartreuse;
+}
+
+.contenedor{
+  background-color: chartreuse;
+}
+
+.listadolocalidad{
+  background-color: brown;
+}
+
+
+.climadetalle{
+  background-color: blue;
+}
+
